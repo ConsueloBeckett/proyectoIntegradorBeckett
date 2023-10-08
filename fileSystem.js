@@ -80,11 +80,11 @@ elementos.getProductsById(1);
 elementos.deleteProductsById(2)
 
 elementos.actualizarProductos({
-    "titulo": "TituloTres",
-    "descripcion": "DescripcionTres",
-    "precio": 4000,
-    "imagen": "ImagenTres",
-    "codigo": "abc3",
-    "stock": 15,
-    "id": 3
+    "titulo": "TituloOcho",
+    "descripcion": "DescripcionNueve",
+    "precio": 5000,
+    "imagen": "ImagenNueve",
+    "codigo": "abc9",
+    "stock": 20,
+    "id": 1
 })
